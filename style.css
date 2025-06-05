@@ -719,6 +719,10 @@ footer{
         font-size: 12px;
     }
 
+        .lowerf .line{
+        margin-top: 5vh;
+    }
+
     .lowerf a{
         font-size: 10px;
         background-color: rgba(67, 67, 67, 0.2);
